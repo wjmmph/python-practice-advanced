@@ -2,5 +2,5 @@
 
 mylst = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-squaredlist = [item*item for item in mylst]
+squaredlist = [item * item for item in mylst]
 print(squaredlist)
